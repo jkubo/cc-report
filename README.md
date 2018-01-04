@@ -1,13 +1,15 @@
 # Crypto PE Report
 Crypto PE Report, short for Cryptocurrency Private Equity Report, is a very simple script to generate a report of the current equity value of your cryptocurrency funds.
 
+This report fetches your coin balances in various exchanges and generates a report of your ROI and gains via coinmarketcap API. The code currently supports Bittrex, Binance, KuCoin, Steemit, and Coinbase.
+
 ## Requirements
 `Python 3.6+`
 
 ## Steps
 1. Set Up Python
 
-  Note: `Python 2.7` is not supported since Steemit (@jaykubo) does not provide a `Python 2` library. 
+  Note: `Python 2.7` is not supported since Steemit (@jaykubo) does not provide a `Python 2` library.
 
   > $ virtualenv -p python3 env
 
