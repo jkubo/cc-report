@@ -1,0 +1,6 @@
+configparser==3.5.0
+pandas==0.21.1
+coinbase==2.0.6
+python-bittrex==0.2.2
+python-binance==0.5.11
+python-kucoin==0.1.0

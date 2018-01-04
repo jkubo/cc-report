@@ -1,0 +1,11 @@
+# Configuration Files
+conf/*.ini
+
+# Virtual Env
+env
+
+# Python
+*.py[co]
+
+# Others
+old
