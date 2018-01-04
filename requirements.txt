@@ -4,3 +4,4 @@ coinbase==2.0.6
 python-bittrex==0.2.2
 python-binance==0.5.11
 python-kucoin==0.1.0
+steem==0.18.103
